@@ -1,2 +1,8 @@
-hol
-hola3
+ssid = "hfhgfh-l7f"
+password = "334gdgdgd%HH"
+repo_name = "Azuqueca"
+window = 10
+interval = 10
+device0 = ""
+device1 = ""
+device2 = 
